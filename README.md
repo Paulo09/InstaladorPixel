@@ -1,0 +1,2 @@
+# InstaladorPixel
+Instalador Framework Interoperabilidade
